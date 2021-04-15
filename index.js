@@ -11,6 +11,11 @@ var arrayUsu = [
   { name: "Pepe", sexo: "Hombre", age: 22 }
 ];
 
+var arrayOrder = [];
+
 arrayUsu.forEach(function(element) {
-  if (element.sexo == "Mujer" && element.age >= 18) console.log(element);
+  if (element.sexo == "Mujer" && element.age >= 18)
+  arrayOrder.push(element);
 });
+
+console.log(arrayOrder);
