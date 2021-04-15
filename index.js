@@ -7,7 +7,7 @@ var arrayUsu = [
   { name: "Virgolini", sexo: "Hombre", age: 21 },
   { name: "Simon", sexo: "Hombre", age: 28 },
   { name: "Alfredo", sexo: "Hombre", age: 30 },
-  { name: "Cris", sexo: "Mujer", age: 26 },
+  { name: "Cris", sexo: "Mujer", age: 20},
   { name: "Pepe", sexo: "Hombre", age: 22 }
 ];
 
